@@ -11,7 +11,7 @@
 
 - 🔭 **Currently working on:** [AI Automation Platform](https://ankush017.netlify.app/project)
 - 🌱 **Learning journey:** Deep diving into **Blockchain** and **OpenAI API** integration.
-- 👯 **Collaboration:** I'm actively looking for contributors for **[Uplify](https://github.com/ankush-017/UPLIFY)** — an all-in-one career platform featuring Job Listings, AI Resume Builder, Career Roadmaps, and Skill-based Internships.
+- 👯 **Collaboration:** I'm actively looking for contributors for **[Uplify](https://github.com/ankush-017/UPLIFY)** — an all-in-one career platform offering job listings, AI-powered resumes, career roadmaps, and skill-based internships—helping companies evaluate candidates with GenAI scoring and seamlessly schedule interviews.
 - ⚡ **Fun Fact:** I learn best by building real projects and solving real problems.
 
 ---
