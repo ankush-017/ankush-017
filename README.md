@@ -80,7 +80,7 @@
 ### 📊 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/ankush017/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/ankush-kr-017/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
   <a href="https://www.geeksforgeeks.org/user/ankush017/" target="_blank"><img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/ankush_017" target="blank"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
   <a href="https://www.codechef.com/users/ankush0001" target="blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
