@@ -18,7 +18,7 @@
 
 ### 🛠️ Languages and Tools (Hover to see names)
 
-<p align="center" flex>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="40" height="40"/>
