@@ -96,4 +96,4 @@
 <a href="https://ankush017.netlify.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <a href="https://www.instagram.com/ankush_kumar017/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-<p align="left"> 📄 <b>Check out my Resume:</b> <a href="https://drive.google.com/file/d/1UCAJOx7Vj1tUQfH4zrl_4O4rO3H2Vg-e/view?usp=sharing">Click Here</a></p>
+<p align="left"> 📄 <b>Check out my Resume:</b> <a href="https://drive.google.com/file/d/1M_d-JBaFLeKMbTiUZub6F0gw9VSFAui_/view?usp=sharing">Click Here</a></p>
